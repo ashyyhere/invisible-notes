@@ -103,7 +103,7 @@ Content protection is applied before a note is first shown and re-applied after 
 
 ## Usage
 
-### Note controls
+### Note Controls
 
 Hover a note to reveal its top bar:
 
